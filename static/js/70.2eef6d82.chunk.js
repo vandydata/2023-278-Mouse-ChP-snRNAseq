@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkdani_mouse_chp_snrnaseq=self.webpackChunkdani_mouse_chp_snrnaseq||[]).push([[70],{70:function(n,e,u){u.r(e),u.d(e,{default:function(){return i}});var r=u(671),t=u(144),s=u(136),c=u(388),a=u(376),i=(u(653),u(235),function(n){(0,s.Z)(u,n);var e=(0,c.Z)(u);function u(){return(0,r.Z)(this,u),e.apply(this,arguments)}return(0,t.Z)(u,[{key:"decodeBlock",value:function(n){return n}}]),u}(a.B))}}]);
+//# sourceMappingURL=70.2eef6d82.chunk.js.map
